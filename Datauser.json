@@ -1,0 +1,78 @@
+[
+  {
+    "user": "lupi",
+    "pass": "jds123",
+    "arival": "Balikpapan",
+    "waktu": "15.00 - 17.35",
+    "jumlah": 2,
+    "nama": [
+      "Nami",
+      "Lupi"
+    ],
+    "total": 2250000
+  },
+  {
+    "user": "cinta",
+    "pass": "abcdefu",
+    "arival": "Padang",
+    "waktu": "11.00 - 17.20",
+    "jumlah": 3,
+    "nama": [
+      "lany",
+      "joji",
+      "keshi"
+    ],
+    "total": 6300000
+  },
+  {
+    "user": "Leo",
+    "pass": "kldshf",
+    "arival": "Yogyakarta",
+    "waktu": "13.00 - 14.10",
+    "jumlah": 3,
+    "nama": [
+      "Nata",
+      "Zidan",
+      "Fahmi"
+    ],
+    "total": 2250000
+  },
+  {
+    "user": "Mina",
+    "pass": "kjdsfh",
+    "arival": "Denpasar",
+    "waktu": "12.00 - 13.00",
+    "jumlah": 2,
+    "nama": [
+      "Mina",
+      "Windah"
+    ],
+    "total": 1360000
+  },
+  {
+    "user": "Ragil",
+    "pass": "kdhfj",
+    "arival": "Balikpapan",
+    "waktu": "15.00 - 17.35",
+    "jumlah": 1,
+    "nama": [
+      "Ragil"
+    ],
+    "total": 1125000
+  },
+  {
+    "user": "Linda",
+    "pass": "ljfdhs",
+    "arival": "Palembang",
+    "waktu": "09.00 - 15.00",
+    "jumlah": 5,
+    "nama": [
+      "Linda",
+      "Dita",
+      "Mitu",
+      "Faris",
+      "Lani"
+    ],
+    "total": 10000000
+  }
+]
